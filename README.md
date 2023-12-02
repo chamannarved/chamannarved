@@ -14,7 +14,7 @@ I'm Chaman Narved, currently working as Senior Web Developer & UI/UX Designer po
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamannarved&" alt="chamannarved" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">🚀 Some Tools I Have Used and Learned:</h2>
 <p align="left">
 <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -35,6 +35,8 @@ I'm Chaman Narved, currently working as Senior Web Developer & UI/UX Designer po
      <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 
 </p>
+
+<hr>
 
 [![Chaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamannarved&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamannarved&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
