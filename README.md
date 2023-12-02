@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,20,&text=Hi👋%20there,%20fellow%20Dev's&fontSize=42&height=200&section=header&fontAlignY=30&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,20,&text=Hi👋%20there,%20fellow%20Dev's&fontSize=42&height=200&section=header&fontAlignY=35&descAlignY=50)
 <h3>
 I'm Chaman Narved, currently working as Senior Web Developer & UI/UX Designer position at DrabDigital. 
 </h3>
